@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Scott Brown 👋
 
-<!--
-**scottbrown/scottbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Architect**  
+Former software and infrastructure developer, now focused on information security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ About Me
+
+- Passionate about securing systems and building robust architectures
+- Experienced in Go, Ruby, Python, and AWS
+- Advocate for minimalism in both code and life
+
+---
+
+### 🚀 Projects
+
+- **[pulse](https://github.com/scottbrown/pulse)**
+- **[setlist](https://github.com/scottbrown/setlist)**
+- **[beacon](https://github.com/scottbrown/beacon)**
+- **[dumpcft](https://github.com/scottbrown/dumpcft)**
+
+---
+
+### 🌐 Connect
+
+- [Twitter](https://twitter.com/typicalrunt)
+- [typicalrunt.me](https://typicalrunt.me)
